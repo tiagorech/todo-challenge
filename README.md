@@ -1,4 +1,4 @@
-#Desafio 01 - Praticando os conceitos do ReactJS
+# Desafio 01 - Praticando os conceitos do ReactJS
 Desafio proposto no curso de React da Rocketseat para praticar os conceitos de React JS, utilizando Typescript.
 
 A aplicação é uma Todo List, onde o usuário pode acrescentar tarefas a fazer, marcá-la quando concluída e apagar. 
